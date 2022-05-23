@@ -1,4 +1,4 @@
-![cover](https://res.cloudinary.com/dbnq26wqe/image/upload/v1653309346/others/my-poll-preview_ysxngl.svg?style=flat)
+![cover](https://res.cloudinary.com/dbnq26wqe/image/upload/v1653314094/others/my-poll-preview_j04cfa.svg?style=flat)
 
 ## Projeto
 Projeto desenvolvido para um desafio técnico, onde o objetivo era criar um sistema de enquete em realtime.
