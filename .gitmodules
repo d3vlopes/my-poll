@@ -1,3 +1,6 @@
 [submodule "challenge-SIGNOWEB-backend"]
 	path = challenge-SIGNOWEB-backend
 	url = https://github.com/d3vlopes/challenge-SIGNOWEB-backend.git
+[submodule "challenge-SIGNOWEB-frontend"]
+	path = challenge-SIGNOWEB-frontend
+	url = https://github.com/d3vlopes/challenge-SIGNOWEB-frontend.git
